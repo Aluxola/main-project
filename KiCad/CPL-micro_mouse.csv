@@ -1,0 +1,24 @@
+Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
+C1,10uF,C_0603_1608Metric,155.6575,-81.0517,180.0,top
+C2,2.2uF,C_0603_1608Metric,155.6575,-75.5,180.0,top
+C3,0.01uF,C_0603_1608Metric,149.63,-99.225,180.0,top
+C4,10uF,C_0603_1608Metric,149.63,-96.225,180.0,top
+D1,LED,LED_0805_2012Metric,155.8575,-92.5,180.0,top
+D2,LED,LED_0603_1608Metric,155.6575,-86.6433,180.0,top
+J1,Conn_02x08_Odd_Even,PinHeader_2x08_P2.54mm_Vertical,131.775,-85.255,0.0,top
+J2,Conn_01x02_Pin,JST_PH_B2B-PH-K_1x02_P2.00mm_Vertical,141.0,-73.5,0.0,top
+R1,1.2K,R_0603_1608Metric,139.5,-89.0,0.0,top
+R2,1K,R_0603_1608Metric,149.5,-81.0,-90.0,top
+R3,2.2K,R_0603_1608Metric,146.0,-81.0,-90.0,top
+R4,1K,R_0603_1608Metric,139.5,-83.5,0.0,top
+R5,1K,R_0603_1608Metric,139.5,-86.5,0.0,top
+S1,JS102011SAQN,SW_JS102011SAQN,150.4,-71.5,180.0,top
+TP1,5V,TestPoint_Pad_D1.5mm,161.5,-78.9,0.0,top
+TP2,ADC_OUT ,TestPoint_Pad_D1.5mm,161.5,-98.0,90.0,top
+TP3,RED,TestPoint_Pad_D1.5mm,161.5,-82.45,0.0,top
+TP4,GREEN,TestPoint_Pad_D1.5mm,161.5,-86.0,0.0,top
+TP5,SW_out,TestPoint_Pad_D1.5mm,161.5,-74.6,-90.0,top
+TP6,Motor2,TestPoint_Pad_D1.5mm,161.5,-89.55,0.0,top
+TP7,Motor1,TestPoint_Pad_D1.5mm,161.5,-93.1,0.0,top
+U1,TP4056,SOP127P600X175-9N,146.0,-86.5,0.0,top
+U2,DRV8833PW,SOP65P640X120-16N,141.5,-96.5,0.0,top
