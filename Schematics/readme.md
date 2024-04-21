@@ -1,1 +1,1 @@
-This is where are schematics are uploaded.
+This is where our schematics are uploaded.
